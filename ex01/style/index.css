@@ -6,6 +6,10 @@ font-weight: 200;
 text-align: justify;
 width: 200px;
 }
+h1{
+    text-align: center;
+    color: red;
+}
 #title{
     color: aqua;
 }
@@ -32,9 +36,5 @@ align-items: center;
 
 text-align: center;
 }
-th{
-    padding: 25px;
-    color: red;
-    font-size: 2em;
-}
+
 
