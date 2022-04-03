@@ -1,0 +1,39 @@
+p{
+    font-size: 14px;
+
+font-weight: 200;
+
+text-align: justify;
+width: 200px;
+}
+#title{
+    color: aqua;
+}
+
+
+#item{
+    width:200px;
+  text-align:center;
+  display:block;
+  background-color: transparent;
+  border: 1px solid transparent;
+  margin-right: 10px;
+  margin-bottom: 1px;
+  float:left;
+
+}
+
+img {
+    width: 200px;
+    height: 190px;
+    justify-content: center;
+
+align-items: center;
+
+text-align: center;
+}
+th{
+    color: red;
+    font-size: 2em;
+}
+
