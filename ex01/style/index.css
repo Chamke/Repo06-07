@@ -33,6 +33,7 @@ align-items: center;
 text-align: center;
 }
 th{
+    padding: 25px;
     color: red;
     font-size: 2em;
 }
